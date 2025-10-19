@@ -1,0 +1,16 @@
+age,income,education_level,satisfaction_score,customer_type
+25,35000,Bachelor,4.2,New
+32,52000,Master,4.5,Regular
+45,78000,PhD,4.8,VIP
+28,42000,Bachelor,3.9,New
+38,65000,Master,4.6,Regular
+51,92000,PhD,4.9,VIP
+22,28000,High School,3.5,New
+29,48000,Bachelor,4.1,Regular
+42,72000,Master,4.7,VIP
+35,58000,Bachelor,4.3,Regular
+48,85000,PhD,4.8,VIP
+26,32000,High School,3.7,New
+31,51000,Bachelor,4.2,Regular
+44,76000,Master,4.6,VIP
+39,68000,Bachelor,4.4,Regular
