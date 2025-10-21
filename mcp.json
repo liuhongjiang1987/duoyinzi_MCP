@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "duoyinzi-mcp": {
+      "command": "uvx",
+      "args": ["duoyinzi-mcp"],
+      "env": {
+        "PYTHONPATH": "."
+      }
+    }
+  }
+}
