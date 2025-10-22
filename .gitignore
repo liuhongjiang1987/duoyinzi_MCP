@@ -8,3 +8,9 @@ wheels/
 
 # Virtual environments
 .venv
+
+# CherryStudio configuration files
+cherrystudio_config_uv.json
+
+# Old main files
+main_old.py
